@@ -1,0 +1,11 @@
+[package]
+name = "guessing_game"
+license = "MIT"
+version = "0.1.0"
+authors = ["Andrew Johnson <ajohnson.uva@gmail.com>"]
+edition = "2018"
+description = "A fun game where you guess what number the computer has chosen."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
